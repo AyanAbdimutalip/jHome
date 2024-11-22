@@ -63,8 +63,7 @@
 // }
 // bolzham()
 
-// Функцияны шақыру
-guessTheNumber();
+// guessTheNumber();
 
 
 
@@ -234,3 +233,6 @@ guessTheNumber();
 // }
 // let result = studentBagsy();
 // alert("Ең жоғарғы бал жинаған студент ол - " + result.newName + " балы( " + result.newBaga +" Балл  )")
+
+
+alert("Үй жұмысы аяқталды")
