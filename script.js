@@ -44,7 +44,7 @@
 
 
 //     while (true) {
-//         userNumber = parseInt(prompt("1 мен 100 арасында сан ойлаңыз:"), 10);
+//         userNumber = +(prompt("1 мен 100 арасында сан ойлаңыз:");
 
 //         if (isNaN(userNumber) || userNumber < 1 || userNumber > 100) {
 //             alert("Тек 1 мен 100 арасындағы сан енгізіңіз!");
